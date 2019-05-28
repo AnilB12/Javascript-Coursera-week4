@@ -1,3 +1,2 @@
 # Javascript-Coursera-week4
-
-## Coursera Week4 assignment
+Coursera Week4 assignment
